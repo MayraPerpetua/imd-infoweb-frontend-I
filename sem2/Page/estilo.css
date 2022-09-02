@@ -1,0 +1,27 @@
+body {
+    background-color: lightpink;
+ }
+ h1 {
+    font-size: 40px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:link {
+    color: rgb(44, 0, 70);
+}
+a:visited {
+    color: rgb(18, 103, 214);
+}
+a:hover {
+    color: rgb(113, 163, 255);
+    font-size: 25px
+}
+  a:active {
+    color: rgb(0, 217, 255);
+}
+img {
+    height: 200px;
+  }
+  img {
+    margin: 30px;
+}
